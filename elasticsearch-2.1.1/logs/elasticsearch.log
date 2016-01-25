@@ -1,0 +1,13 @@
+[2016-01-25 16:52:18,623][WARN ][bootstrap                ] unable to install syscall filter: syscall filtering not supported for OS: 'Windows 8.1'
+[2016-01-25 16:52:19,307][INFO ][node                     ] [Quasimodo] version[2.1.1], pid[1824], build[40e2c53/2015-12-15T13:05:55Z]
+[2016-01-25 16:52:19,314][INFO ][node                     ] [Quasimodo] initializing ...
+[2016-01-25 16:52:19,488][INFO ][plugins                  ] [Quasimodo] loaded [], sites []
+[2016-01-25 16:52:19,545][INFO ][env                      ] [Quasimodo] using [1] data paths, mounts [[Windows8_OS (C:)]], net usable_space [212.8gb], net total_space [905.2gb], spins? [unknown], types [NTFS]
+[2016-01-25 16:52:25,363][INFO ][node                     ] [Quasimodo] initialized
+[2016-01-25 16:52:25,365][INFO ][node                     ] [Quasimodo] starting ...
+[2016-01-25 16:52:26,149][INFO ][transport                ] [Quasimodo] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2016-01-25 16:52:26,219][INFO ][discovery                ] [Quasimodo] elasticsearch/VJMQUDI_Ssa7HHnXi7lT3w
+[2016-01-25 16:52:30,315][INFO ][cluster.service          ] [Quasimodo] new_master {Quasimodo}{VJMQUDI_Ssa7HHnXi7lT3w}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-01-25 16:52:30,423][INFO ][gateway                  ] [Quasimodo] recovered [0] indices into cluster_state
+[2016-01-25 16:52:30,708][INFO ][http                     ] [Quasimodo] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2016-01-25 16:52:30,710][INFO ][node                     ] [Quasimodo] started
