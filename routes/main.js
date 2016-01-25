@@ -2,7 +2,7 @@ var router = require('express').Router();
 var User = require('../models/user');
 var Product = require('../models/product');
 
-router.get('/', function(res, res) {
+router.get('https://amazonclone.herokuapp.com/', function(res, res) {
 res.render('main/home');
 });
 
